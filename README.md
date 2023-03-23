@@ -11,3 +11,4 @@
 - [기초 코드 작성 요령 2](https://github.com/algorithm-cpp-study/code-repository/tree/main/%EA%B8%B0%EC%B4%88%20%EC%BD%94%EB%93%9C%20%EC%9E%91%EC%84%B1%20%EC%9A%94%EB%A0%B9%202)  
 - [배열](https://github.com/algorithm-cpp-study/code-repository/tree/main/%EB%B0%B0%EC%97%B4)  
 - [연결 리스트](https://github.com/algorithm-cpp-study/code-repository/tree/main/%EC%97%B0%EA%B2%B0%20%EB%A6%AC%EC%8A%A4%ED%8A%B8)  
+- [큐](https://github.com/algorithm-cpp-study/code-repository/tree/main/%ED%81%90)  
