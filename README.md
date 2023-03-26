@@ -12,3 +12,5 @@
 - [배열](https://github.com/algorithm-cpp-study/code-repository/tree/main/%EB%B0%B0%EC%97%B4)  
 - [연결 리스트](https://github.com/algorithm-cpp-study/code-repository/tree/main/%EC%97%B0%EA%B2%B0%20%EB%A6%AC%EC%8A%A4%ED%8A%B8)  
 - [큐](https://github.com/algorithm-cpp-study/code-repository/tree/main/%ED%81%90)  
+- [덱](https://github.com/algorithm-cpp-study/code-repository/tree/main/%EB%8D%B1)  
+- [스택의 활용(수식의 괄호 쌍)](https://github.com/algorithm-cpp-study/code-repository/tree/main/%EC%8A%A4%ED%83%9D%EC%9D%98%20%ED%99%9C%EC%9A%A9)  
